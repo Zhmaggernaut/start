@@ -1,0 +1,16 @@
+# Global path to single directory
+C:\Users\amart\Documents\Unik\OOP\GIT\start\martysiuk\introduction\build\
+
+# All cmake-build-debug directories
+CMakeLists.txt.user
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Testing
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps
+CMakeUserPresets.json
