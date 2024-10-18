@@ -27,5 +27,7 @@ set(CMAKE_VERBOSE_MAKEFILE TRUE)
 # Include a subproject located in the program subdirectory. There must be a CMakeLists.txt file in it
 add_subdirectory(program)
 
+add_subdirectory(library)
+
 # Enabling tests causes the test target to appear in Makefiles
 enable_testing()
