@@ -1,0 +1,5 @@
+# ninja log v6
+10	1358	7509543185014825	program/CMakeFiles/Program.dir/src/main.cpp.obj	43bfe673225c2e02
+27	100	7509543674010671	library/CMakeFiles/MathLibrary.dir/src/math_helpers.cpp.obj	40dac89b0864d2fa
+100	252	7509543674732339	library/libMathLibrary.a	83728adcf9c9eed6
+252	404	7509543676255469	program/Program.exe	2f9447d71087b1ae
