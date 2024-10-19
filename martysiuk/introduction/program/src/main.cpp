@@ -10,5 +10,6 @@ int main()
 {
 	cout << "Hello World!" << endl;
 	cout << "factorial(5) = " << factorial(5) << endl;
+	cout << "Ye pierdole" << endl;
 }
 	
