@@ -9,7 +9,11 @@ using namespace std;
 int main()
 {
 	cout << "Hello World!" << endl;
+	cout << "factorial(5) = " << factorial(1) << endl;
+	cout << "factorial(5) = " << factorial(2) << endl;
+	cout << "factorial(5) = " << factorial(3) << endl;
+	cout << "factorial(5) = " << factorial(4) << endl;
 	cout << "factorial(5) = " << factorial(5) << endl;
-	cout << "Ye pierdole" << endl;
+	return 0;
 }
 	
