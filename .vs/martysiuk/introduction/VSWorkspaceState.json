@@ -1,0 +1,8 @@
+{
+  "OutputFoldersPerTargetSystem": {
+    "Local Machine": [
+      "martysiuk\\introduction\\out\\build\\x64-Debug",
+      "martysiuk\\introduction\\out\\install\\x64-Debug"
+    ]
+  }
+}
