@@ -3,3 +3,7 @@
 97	173	7515564191739663	library/libMathLibrary.a	83728adcf9c9eed6
 34	392	7515564191113616	program/CMakeFiles/Program.dir/src/main.cpp.obj	43bfe673225c2e02
 392	499	7515564194687677	program/Program.exe	2f9447d71087b1ae
+16	82	7515577611164639	library/CMakeFiles/MathLibrary.dir/src/math_helpers.cpp.obj	9ba4a7a002b0fb32
+83	164	7515577611836927	library/libMathLibrary.a	83728adcf9c9eed6
+21	427	7515577611225933	program/CMakeFiles/Program.dir/src/main.cpp.obj	18c617924de43963
+427	536	7515577615286465	program/Program.exe	2f9447d71087b1ae

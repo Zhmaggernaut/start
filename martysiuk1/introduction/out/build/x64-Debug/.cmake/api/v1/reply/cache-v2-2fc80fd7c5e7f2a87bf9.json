@@ -39,11 +39,11 @@
 			[
 				{
 					"name" : "HELPSTRING",
-					"value" : "No help, variable specified on the command line."
+					"value" : "Choose the type of build, options are: None Debug Release RelWithDebInfo MinSizeRel ..."
 				}
 			],
 			"type" : "STRING",
-			"value" : "Debug"
+			"value" : ""
 		},
 		{
 			"name" : "CMAKE_CACHEFILE_DIR",
@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/amart/Documents/Unik/OOP/GIT/start/martysiuk/introduction/out/build/x64-Debug"
+			"value" : "c:/Users/amart/Documents/Unik/OOP/GIT/start/martysiuk1/introduction/out/build/x64-Debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -563,7 +563,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/amart/Documents/Unik/OOP/GIT/start/martysiuk/introduction/out/build/x64-Debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/amart/Documents/Unik/OOP/GIT/start/martysiuk1/introduction/out/build/x64-Debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -635,7 +635,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/amart/Documents/Unik/OOP/GIT/start/martysiuk/introduction"
+			"value" : "C:/Users/amart/Documents/Unik/OOP/GIT/start/martysiuk1/introduction"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -643,11 +643,11 @@
 			[
 				{
 					"name" : "HELPSTRING",
-					"value" : "No help, variable specified on the command line."
+					"value" : "Install path prefix, prepended onto install directories."
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Users/amart/Documents/Unik/OOP/GIT/start/martysiuk/introduction/out/install/x64-Debug"
+			"value" : "C:/Program Files (x86)/IntroductionProject"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -670,12 +670,16 @@
 			"properties" : 
 			[
 				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
 					"name" : "HELPSTRING",
-					"value" : "make program"
+					"value" : "Program used to build from build.ninja files."
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe"
+			"value" : "C:/msys64/mingw64/bin/ninja.exe"
 		},
 		{
 			"name" : "CMAKE_MODULE_LINKER_FLAGS",
@@ -1251,7 +1255,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/amart/Documents/Unik/OOP/GIT/start/martysiuk/introduction/out/build/x64-Debug"
+			"value" : "C:/Users/amart/Documents/Unik/OOP/GIT/start/martysiuk1/introduction/out/build/x64-Debug"
 		},
 		{
 			"name" : "IntroductionProject_IS_TOP_LEVEL",
@@ -1275,7 +1279,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/amart/Documents/Unik/OOP/GIT/start/martysiuk/introduction"
+			"value" : "C:/Users/amart/Documents/Unik/OOP/GIT/start/martysiuk1/introduction"
 		},
 		{
 			"name" : "MathLibrary_BINARY_DIR",
@@ -1287,7 +1291,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/amart/Documents/Unik/OOP/GIT/start/martysiuk/introduction/out/build/x64-Debug/library"
+			"value" : "C:/Users/amart/Documents/Unik/OOP/GIT/start/martysiuk1/introduction/out/build/x64-Debug/library"
 		},
 		{
 			"name" : "MathLibrary_IS_TOP_LEVEL",
@@ -1311,7 +1315,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/amart/Documents/Unik/OOP/GIT/start/martysiuk/introduction/library"
+			"value" : "C:/Users/amart/Documents/Unik/OOP/GIT/start/martysiuk1/introduction/library"
 		},
 		{
 			"name" : "Program_BINARY_DIR",
@@ -1323,7 +1327,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/amart/Documents/Unik/OOP/GIT/start/martysiuk/introduction/out/build/x64-Debug/program"
+			"value" : "C:/Users/amart/Documents/Unik/OOP/GIT/start/martysiuk1/introduction/out/build/x64-Debug/program"
 		},
 		{
 			"name" : "Program_IS_TOP_LEVEL",
@@ -1347,7 +1351,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/amart/Documents/Unik/OOP/GIT/start/martysiuk/introduction/program"
+			"value" : "C:/Users/amart/Documents/Unik/OOP/GIT/start/martysiuk1/introduction/program"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",

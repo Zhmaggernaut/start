@@ -21,6 +21,11 @@
 		{
 			"isCMake" : true,
 			"isExternal" : true,
+			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.26/Modules/CMakeNinjaFindMake.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
 			"path" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.26/Modules/CMakeSystemSpecificInitialize.cmake"
 		},
 		{
@@ -783,8 +788,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "C:/Users/amart/Documents/Unik/OOP/GIT/start/martysiuk/introduction/out/build/x64-Debug",
-		"source" : "C:/Users/amart/Documents/Unik/OOP/GIT/start/martysiuk/introduction"
+		"build" : "C:/Users/amart/Documents/Unik/OOP/GIT/start/martysiuk1/introduction/out/build/x64-Debug",
+		"source" : "C:/Users/amart/Documents/Unik/OOP/GIT/start/martysiuk1/introduction"
 	},
 	"version" : 
 	{

@@ -95,14 +95,14 @@
 				{
 					"directoryIndex" : 2,
 					"id" : "MathLibrary::@25993c7f548492bbc626",
-					"jsonFile" : "target-MathLibrary-Debug-04fd5b9b62dd0acba263.json",
+					"jsonFile" : "target-MathLibrary-Debug-b9046c24cfce6dab74f9.json",
 					"name" : "MathLibrary",
 					"projectIndex" : 2
 				},
 				{
 					"directoryIndex" : 1,
 					"id" : "Program::@2ccacb0f417df79f0f19",
-					"jsonFile" : "target-Program-Debug-6d08e12ce9eebcc8cace.json",
+					"jsonFile" : "target-Program-Debug-ff28cb68ae8d6fa51e24.json",
 					"name" : "Program",
 					"projectIndex" : 1
 				}
@@ -112,8 +112,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/amart/Documents/Unik/OOP/GIT/start/martysiuk/introduction/out/build/x64-Debug",
-		"source" : "C:/Users/amart/Documents/Unik/OOP/GIT/start/martysiuk/introduction"
+		"build" : "C:/Users/amart/Documents/Unik/OOP/GIT/start/martysiuk1/introduction/out/build/x64-Debug",
+		"source" : "C:/Users/amart/Documents/Unik/OOP/GIT/start/martysiuk1/introduction"
 	},
 	"version" : 
 	{
